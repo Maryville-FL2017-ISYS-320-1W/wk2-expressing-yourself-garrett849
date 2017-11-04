@@ -13,7 +13,7 @@
 	5. 16.8 Incorrect not very good with %. Java does it from left to right because they have the same precedence.
 	6. 11  Correct
 	7. 11  Incorrect It printed it since it has quotes.
-	8. 342+2
+	8. 342+2 Incorrect didn't do my math first.
  
  	After testing the expressions in the main method, indicate above if your predictions were correct.
 */
